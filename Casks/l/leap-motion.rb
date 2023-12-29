@@ -4,7 +4,8 @@ cask "leap-motion" do
 
   url "https://warehouse.leapmotion.com/apps/4184/download"
   name "Leap Motion"
-  homepage "https://www.leapmotion.com/setup"
+  desc "Software for the Leap Motion Controller"
+  homepage "https://developer.leapmotion.com/"
 
   livecheck do
     url "https://warehouse.leapmotion.com/apps/4184/download"
